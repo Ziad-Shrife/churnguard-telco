@@ -48,3 +48,8 @@ This project uses the Telco Customer Churn dataset.
 Place the dataset CSV here (locally):
 
 data/telco.csv
+
+## 📸 Demo Screenshots
+![Dashboard](as<img width="1905" height="943" alt="dashboard" src="https://github.com/user-attachments/assets/9162b3b8-36db-4d61-8890-af6da6756f7c" />
+sets/dashboard.png)
+<img width="1540" height="644" alt="batch_csv" src="https://github.com/user-attachments/assets/d79624bf-8eb6-48dd-887b-62474a3a8e5c" />
